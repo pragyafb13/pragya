@@ -1,3 +1,10 @@
+- 👋 Hi, I’m Pragya
+- 👀 I’m interested in hacking projects | exploring.
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on some making projects
+- 📫 How to reach me : pragyrajfb13@gmail.com
+
+
 # Hack Club Theme Starter
 
 A sample [Next.js] project for getting started with [MDX], [Theme UI], & [Hack Club Theme].
